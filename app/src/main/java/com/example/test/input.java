@@ -25,7 +25,7 @@ public class input extends AppCompatActivity {
         long num2 = Integer.parseInt(str2);
 
 
-        //インテント作成
+       
 //        Intent intent = new Intent(getApplication(), SubActivity.class);
        Intent intent = new Intent(getApplication(), count_activity.class);
 
